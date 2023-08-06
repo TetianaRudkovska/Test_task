@@ -1,5 +1,5 @@
 # Test_task
-test_saucedemo
+
 For this task, was using Visual Studio Code.
 Steps:
 1. Visual Studio Code is already installed with all required packages.
